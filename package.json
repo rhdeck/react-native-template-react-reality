@@ -1,5 +1,5 @@
 {
-  "name": "react-reality-template-base",
+  "name": "react-native-template-react-reality",
   "version": "1.0.0",
   "description": "Hello world template for react-reality",
   "main": "App.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://rhdeck/react-reality-template-base"
+    "url": "https://rhdeck/react-native-template-react-reality"
   },
   "keywords": [
     "react-reality",
