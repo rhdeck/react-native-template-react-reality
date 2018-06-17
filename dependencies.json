@@ -11,5 +11,6 @@
   "react-native-ios-setfamily": "*",
   "react-reality-components": "rhdeck/react-reality-components",
   "react-native-device-info": "*",
-  "react-native-linknopod": "*"
+  "react-native-linknopod": "*",
+  "react-native-xcode": "*"
 }
