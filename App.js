@@ -1,13 +1,16 @@
 import React, { Component } from "react";
-import { ARNode, ARText, ARMonoView, ARAnimatedProvider } from "react-reality";
 import {
+  ARNode,
+  ARText,
+  ARMonoView,
+  ARAnimatedProvider,
   ARColoredTextNode,
   ARSignNode,
   ARCenteredSKLabel,
   ARPlaneScene,
   ARMeNode,
   ARColor
-} from "react-reality-components";
+} from "react-reality";
 class componentTest extends Component {
   state = {
     yea: 0
@@ -75,5 +78,4 @@ class componentTest extends Component {
     );
   }
 }
-
 export default componentTest;
